@@ -43,6 +43,6 @@ Then, place the file in the p2_continuous_control/ folder in the DRLND GitHub re
 
 I was able to solve the environment in 86 episodes.
 
-![Solved in 86 episodes][image.png]
+![Solved in 86 episodes](image.png)
 
 The saved weights are in `policy.pth`. 
